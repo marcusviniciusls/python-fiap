@@ -111,7 +111,9 @@ A eficiência de um algoritmo é analisada a partir do crescimento do número de
 
 Utiliza-se a notação assintótica Big-O para representar o limite superior do crescimento do tempo de execução.
 
-# 📐 Fundamentação Teórica
+---
+
+## 📐 Fundamentação Teórica
 
 A distinção entre crescimento quadrático e logarítmico é central na análise de algoritmos.
 
