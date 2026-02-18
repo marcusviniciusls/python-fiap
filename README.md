@@ -1,5 +1,52 @@
 # Python FIAP – Fundamentos de Algoritmos
 
+# Marcus Vinícius | Software Engineer & Educator
+
+## 👋 Sobre mim
+
+Sou desenvolvedor de software com foco em construção de soluções robustas e ensino de fundamentos sólidos de tecnologia.
+
+Atuo conectando teoria e prática, com ênfase em:
+
+- Algoritmos e Estruturas de Dados  
+- Java e Python  
+- Arquitetura de Software  
+- Cloud Computing  
+- Formação técnica de novos desenvolvedores  
+
+Acredito que compreender profundamente os fundamentos é o que diferencia um programador de um engenheiro de software.
+
+---
+
+## 🎯 Propósito
+
+Meu objetivo é transformar conceitos complexos em explicações claras e aplicáveis.
+
+Gosto de ensinar partindo da intuição do problema, evoluindo para a implementação prática e finalizando com análise de eficiência e impacto real.
+
+Tecnologia não é apenas código.  
+É raciocínio estruturado, clareza mental e tomada de decisão baseada em fundamentos.
+
+---
+
+## 🧠 Áreas de Interesse
+
+- Algoritmos e análise de complexidade  
+- Engenharia de software orientada a boas práticas  
+- Computação em nuvem  
+- Formação técnica e didática aplicada  
+
+---
+
+## 🚀 Projetos
+
+Aqui no GitHub compartilho projetos acadêmicos, estudos técnicos e materiais didáticos que demonstram:
+
+- Clareza conceitual  
+- Organização de código  
+- Estrutura profissional  
+- Preocupação com eficiência  
+
 ## 📚 Sobre o Projeto
 
 Este repositório foi desenvolvido como material acadêmico demonstrativo com o objetivo de explorar fundamentos essenciais da Ciência da Computação por meio da linguagem Python.
